@@ -1,0 +1,26 @@
+
+
+#first{
+    height:700;
+    width=100px;
+    text-align: center;
+    display:flex;
+    align terms:center;
+    margin:auto;
+    padding:0;
+    position:sticky;
+    justify-content:space-around;
+    
+}
+body {
+    background-color: pink;
+  }
+img{
+    
+    border-radius:50%;
+    border-top-left-radius:25%;
+    border-top-right-radius:25%;
+    border-bottom-left-radius:25%;
+    border-bottom-right-radius:25%;
+}
+
